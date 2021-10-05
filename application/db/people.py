@@ -1,2 +1,3 @@
-def get_employees():
-    print('Запуск функции: get_employees')
+def get_employees(date):
+    print(f"Сегодняшняя дата {date}, \nЗапуск функции: get_employees")
+
